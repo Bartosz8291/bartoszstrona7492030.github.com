@@ -1,0 +1,10 @@
+console.log ("-------------------------");
+console.log ("|                       |");
+console.log ("|                       |");
+console.log ("|          STOP         |");
+console.log ("|                       |");
+console.log ("|                       |");
+console.log ("|                       |");
+console.log ("-------------------------");
+console.log ("Just Close The Console");
+console.log ("JUST YOU CAN READ IT IN https://bartoszstrona7492030.github.com/StopInConsole/message/info");
